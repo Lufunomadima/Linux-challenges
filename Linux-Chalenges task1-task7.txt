@@ -1,0 +1,93 @@
+Task 1
+
+1. ls - i see a list of folders, it list all the contents of a specified directory
+
+2. pwd - i see the current working directory which is /home/recruit, it displays the path of the current working directory
+
+3. mkdir workspace, cd workspace
+4. ls -the directory is empty
+5. touch README.md 
+6. cp README.MD CHANGELOG.MD
+
+Task 2
+
+touch exercise.md
+ls exercise.md
+mv exercise /tmp
+mv exercise ~/tmp
+cd /tmp
+ls
+rm tmp / exercsise.md
+rm /tmp/exercise.md 
+ 
+
+Task 3
+
+1. touch umuzi.md recruits.md cohort.md
+
+2. cat umuzi.md
+
+ctrl d
+
+cat recruit.md
+System Development
+ctrl d
+
+cat cohort
+c20 Java
+ctrl d
+
+3. cat umuzi.md recruits.md cohort.md
+
+4. cat umuzi.md recruits.md cohort.md > summary.md
+
+5. echo "The end" 1>>summary.md
+
+
+Task 4
+
+1. locate umuzi.md
+
+2. locate umuzi.md > search_result.md
+
+Task 5
+
+1. touch Documents/pad.md
+
+2. cd../Desktop mkdir work
+
+3. cp ~/Documents/pad.md pad_copy.md
+
+4. locate updatedb
+
+5. cd -
+
+6. locate pad_copy.md
+
+Task 6
+
+1. find / pdf
+
+2.history
+find ~ *.pdf ~/Documents
+  
+3. ls
+find ~ -name \*.pdf>pad.dm
+
+Task 7
+
+1. nano my_bio.md
+
+2. mkdir my_files && mv my_bio.md /my_files 
+
+3. touch my_files
+ls my_files
+mkdir my_files
+cd my_files
+mv my_bio.md my_files/
+
+
+
+
+
+
